@@ -1,0 +1,2 @@
+user1:$6$f9FK3grXWD5kSX8Q$D/X3ZcmQ2YElq/AAO/hk5kAp7iMVR2iQ2BH8l5roS.q9lid3kfDbL7zW1dT49Wlw3LQW5rSksRxVY5wrl.H2i0:1000:1000:user:/home/user:/bin/bash
+user2:$6$0.fq9/juM6oINkID$siKd.vpKn4Fzl.pj4cRZyn4uXs04VxMZNFHvY0lC39Qa2zqpzOWp3BhmdtlmCdXwiatSxl3odW0BnMD7QbEWW1:1001:1001:user:/home/user:/bin/bash
